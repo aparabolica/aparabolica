@@ -1,0 +1,22 @@
+name:
+  pt: Infoamazonia
+  en: Infoamazonia
+  es: Infoamazonia
+url: www.infoamazonia.org
+slug: infoamazonia
+techs:
+  - jeo
+  - wordpress
+  - webmaps
+  - mapbox
+  - carto
+tags:
+  - journalism
+  - amazon
+description:
+  en: >
+    InfoAmazonia provides timely news and reports of the endangered Amazon region. A network of organizations and journalists deliver updates from the nine countries of the forest. The data used will always be freely available for download and will be renewed frequently. The comparison between stories and data aims to improve public’s perception of issues in the Amazon region.
+  pt: >
+    InfoAmazonia agrega dados e notícias sobre a Amazônia, a maior floresta tropical contínua do planeta. O projeto é sustentado por uma rede de organizações e jornalistas que oferecem atualizaçõs constantes dos nove países da região. As bases de dados compartilhadas por InfoAmazonia estarão sempre disponíveis para download e também serão renovadas com frequência. O cruzamento das notícias com os dados pretende melhorar a percepção sobre os desafios para a conservação da floresta.
+  es: >
+    InfoAmazonia agrega datos y noticias sobre la Amazonia, el mayor bosque tropical continuo del planeta. El proyecto es sustentado por una red de organizaciones y periodistas que ofrecen actualizaciones constantes de los nueve países de la región. Las bases de datos compartidas por InfoAmazonia estarán siempre disponibles para descargarlas y también serán renovadas frecuentemente. El cruce de noticias con datos pretende mejorar la percepción sobre los desafíos para la conservación de la selva.

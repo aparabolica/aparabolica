@@ -1,0 +1,20 @@
+name:
+  pt: Protected Areas and Climate in the Amazon
+  en: Áreas protegidas e clima na Amazônia
+  es: Áreas protegidas y el clima en la Amazonia
+url: www.amazonprotectedareas.org
+slug: apca
+techs:
+  - domegis
+  - wordpress
+tags:
+  - webmaps
+  - climate
+  - amazon
+description:
+  en: >
+    With support from experts from all Amazon countries, this collaborative platform is a observatory of protected areas in the Amazon region.
+  pt: >
+    Com o apoio de especialistas de todos os países amazônicos, esta plataforma colaborativa é um observatório de áreas protegidas na região amazônica.
+  es: >
+    Con el apoyo de expertos de todos los países amazónicos, esta plataforma de colaboración es un observatorio de las áreas protegidas de la región amazónica.
