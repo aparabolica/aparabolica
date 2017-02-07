@@ -1,0 +1,25 @@
+name:
+  pt: Mananciais
+  en: Mananciais
+  es: Mananciais
+url: mananciais.tk
+github: aparabolica/mananciais
+twitter:
+facebook:
+slug: mananciais
+launch_year: 2015
+techs:
+  - d3js
+  - scraping
+tags:
+  - government
+  - water
+  - vizualization
+  - opendata
+description:
+  en: >
+     Web application for visualizing stored volumes in SABESP reservoirs that  supply the metropolitan area of São Paulo.
+  pt: >
+    Aplicativo web de visualização de volume armazenado nos mananciais da SABESP que abastecem a região metropolitana de São Paulo.
+  es: >
+    Aplicación web de visualización del volumen de água almacenado en los muelles de SABESP que abastecen la región metropolitana de Sao Paulo.

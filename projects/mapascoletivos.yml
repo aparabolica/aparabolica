@@ -1,0 +1,24 @@
+name:
+  pt: Mapas Coletivos
+  en: Mapas Coletivos
+  es: Mapas Coletivos
+url: www.mapascoletivos.com.br
+github: mapascoletivos
+twitter: mapascoletivos
+facebook: mapascoletivos
+slug: mapascoletivos
+launch_year: 2012
+techs:
+  - yby
+tags:
+  - collaboration
+  - maps
+  - stories
+  - openstreetmap
+description:
+  en: >
+    Mapas Coletivos is a platform for creating collaborative narratives, where anyone can publish data, stories and visualize them on maps.
+  pt: >
+    Mapas Coletivos é uma plataforma para criação de narrativas colaborativas, onde qualquer pessoa pode publicar dados, histórias e visualizá-las em mapas.
+  es: >
+    Mapas Coletivos es una plataforma para la creación de narrativas colaborativas, donde cualquiera puede publicar datos, historias y verlas en mapas.

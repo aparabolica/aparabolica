@@ -1,9 +1,10 @@
-name: |
-  [:pt]Plano Nacional de Erradicação do Trabalho Escravo
-  [:en]National Plan to Erradicate Slave Labor
-  [:es]Plan Nacional de Erradicación del Trabajo Esclavo
+name:
+  pt: Plano Nacional de Erradicação do Trabalho Escravo
+  en: National Plan to Erradicate Slave Labor
+  es: Plan Nacional de Erradicación del Trabajo Esclavo
 url: www.monitoramentopnete.org.br
 github: aparabolica/pnete
+slug: pnete
 tags:
   - civic
   - transparency
