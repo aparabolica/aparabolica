@@ -1,0 +1,23 @@
+name:
+  pt: BikeIT!
+  en: BikeIT!
+  es: BikeIT!
+url: bikeit.com.br
+slug: bikeit
+github: aparabolica/bikeit
+launch_year: 2016
+techs:
+  - wordpress
+  - webmaps
+tags:
+  - bicycle
+  - mobility
+  - openstreetmap
+  - collaboration
+description:
+  en: >
+    BikeIT is a community certification platform of bike-friendly locations where site users can point out which places that have infrastructure  (parking, pumps, etc) to receive cyclists.
+  pt: >
+    O BikeIT é uma plataforma de certificação comunitária de locais simpáticos a ciclistas, onde usuários do site podem apontar locais que contam com infra-estrutura mínima para o acolhimento de bicicletas em diversas cidades.
+  es: >
+    BikeIT es una plataforma de certificación comunitaria de ubicaciones amigables para bicicletas donde los usuarios del sitio pueden señalar qué lugares tienen infraestructura (estacionamiento, bombas, etc.) para recibir ciclistas.

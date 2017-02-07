@@ -1,0 +1,23 @@
+name:
+  pt: BNDES na Amazônia
+  en: BNDES na Amazônia
+  es: BNDES na Amazônia
+url: www.bndesnaamazonia.org
+github: aparabolica/bndes-na-amazonia
+slug: bndes-na-amazonia
+launch_year: 2015
+techs:
+  - infogram
+  - google_docs
+tags:
+  - journalism
+  - agencia_publica
+  - amazon
+  - special
+description:
+  en: >
+    Website developed for the publication of vizualizations and open data obtained by the special report of [Agência Pública](apublica.org) on the allocation of BNDES financing in projects in the Amazon region.
+  pt: >
+    Site desenvolvido para a publicação de visualizações e dados abertos obtidos pela reportagem especial da [Agência Pública](apublica.org) sobre a destinação dos financiamentos do BNDES em projetos na região amazônica.
+  es: >
+    Sitio desarrollado para la publicación de visualizaciones y datos abiertos del informe especial de la [Agencia Pública](apublica.org) sobre la asignación de los proyectos de financiación de BNDES en la región amazónica.

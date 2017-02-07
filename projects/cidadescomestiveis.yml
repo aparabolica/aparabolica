@@ -1,0 +1,21 @@
+name:
+  pt: Cidades Comestíveis
+  en: Cidades Comestíveis
+  es: Cidades Comestíveis
+url: www.cidadescomestiveis.org
+github: aparabolica/cidades-comestiveis
+slug: cidades-comestiveis
+launch_year: 2015
+techs:
+tags:
+  - agriculture
+  - collaboration
+  - sharing_economy
+  - webmaps
+description:
+  en: >
+    The *Cidades Comestíveis* project is an initiative to promote urban agriculture in the city of Sao Paulo through the collaborative mapping of cultivable urban lands and by the exchange of related resources.
+  pt: >
+    O projeto Cidades Comestíveis é iniciativa para promover a agricultura urbana na cidade de São Paulo por meio do mapeamento colaborativo de áreas agricultáveis e compartilhamento de recursos.
+  es: >
+    El proyecto *Cidades Comestíveis* es iniciativa para la promoción de la agricultura urbana en la ciudad de Sao Paulo a través del mapeo colaborativo de tierras urbana cultivables y el intercambio de recursos.
