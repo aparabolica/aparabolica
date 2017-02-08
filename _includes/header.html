@@ -1,0 +1,21 @@
+<div class="menu">
+  <div class="home">
+    {% if site.lang == "pt" %}
+      <a class="fa fa-home" href="/"></a>
+    {% else %}
+      <a class="fa fa-home" href="/{{ site.lang }}"></a>
+    {% endif %}
+  </div>
+
+  <div class="languages">
+    <ul>
+      {% for language in site.languages %}
+        {% if language == "pt" %}
+          <a href="{{ page.url }}" >{{ language }}</a>
+        {% else %}
+          <a href="/{{ language }}{{ page.url }} " >{{ language }}</a>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
