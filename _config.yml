@@ -1,0 +1,32 @@
+# Basic site info
+
+title: "aparabólica: estudio de software"
+email: contato@aparabolica.com.br
+description:
+  pt: Somos um estudio de software... (editar _config.yml)
+  en: Somos um estudio de software... (editar _config.yml)
+  es: Somos um estudio de software... (editar _config.yml)
+url: "https://aparabolica.com.br"
+github_username:  aparabolica
+
+
+
+# Configuration
+
+destination: docs
+exclude:
+  - README.md
+  - .gitignore
+  - CNAME
+  - LICENSE
+  - Gemfile
+  - docs
+  - vendor
+gems:
+  - jekyll-multiple-languages-plugin
+collections:
+  - projects
+
+# i18n
+languages: ["pt", "en", "es"]
+exclude_from_localizations: ["javascript", "images", "css"]
