@@ -6,16 +6,18 @@ layout: default
   <h1>aparabólica</h1>
   <h2>{% t software_studio %}</h2>
 </header>
+
+<div class="">
+  <p>
+    <a href="{% tl portfolio %}">{% t visit_our_portfolio %}</a>
+  </p>
+</div>
+
 <footer>
   <p class="social">
     <a class="fa fa-github" rel="external" target="_blank" href="http://github.com/aparabolica/"></a>
     <a class="fa fa-envelope" rel="external" target="_blank" href="mailto:contato@aparabolica.com.br"></a>
   </p>
   <p>contato@aparabolica.com.br</p>
-  <ul>
-    {% for language in site.languages %}
-      <li>{{ language }}</li>
-    {% endfor %}
-  </ul>
 
 </footer>

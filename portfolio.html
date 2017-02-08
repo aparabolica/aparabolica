@@ -1,0 +1,14 @@
+---
+layout: default
+namespace: portfolio
+permalink: /portfolio/
+---
+
+<h1>{% t our_portfolio %}</h1>
+
+{% for project in site.projects %}
+  <h2>
+    {{ project.name[site.lang] }}
+  </h2>
+  <p>{{ project.description[site.lang] }}</p>
+{% endfor %}
