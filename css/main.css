@@ -5,26 +5,43 @@ html,body {
   font-family: 'Share Tech Mono', monospace;
   text-align: center;
 }
-header {
-  margin-top: 20%;
+a {
+  color: #333;
+  text-decoration: none;
+}
+.button,
+button,
+input[type=submit] {
+  border: 1px solid #666;
+  padding: 1.2rem 1.6rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #666;
+  height: auto;
+  border-radius: 0;
+  font-weight: inherit;
+  font-size: 1em;
+  line-height: 1;
+}
+header#masthead {
+  margin-top: 10%;
   margin-bottom: 10%;
 }
-header h1 {
+header#masthead h1 {
   font-size: 3em;
 }
-header h2 {
+header#masthead h2 {
   font-size: 1.7em;
   color: #666;
 }
-header h1,
-header h2 {
+header#masthead h1,
+header#masthead h2 {
   text-transform: lowercase;
   margin: 0;
   font-weight: 400;
 }
-a {
-  color: #333;
-  text-decoration: none;
+#main {
+  margin: 0 0 10%;
 }
 footer .social {
   font-size: 2em;

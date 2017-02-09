@@ -7,8 +7,14 @@ permalink: /portfolio/
 <h1>{% t our_portfolio %}</h1>
 
 {% for project in site.projects %}
-  <h2>
-    {{ project.name[site.lang] }}
-  </h2>
-  <p>{{ project.description[site.lang] }}</p>
+  <article class="project">
+    <header class="project-header">
+      <h2>
+        {{ project.name[site.lang] }}
+      </h2>
+    </header>
+    <section class="project-content">
+      <p>{{ project.description[site.lang] }}</p>
+    </section>
+  </article>
 {% endfor %}
