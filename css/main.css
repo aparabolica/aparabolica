@@ -3,7 +3,13 @@ html,body {
   padding: 0;
   width: 100%;
   font-family: 'Share Tech Mono', monospace;
-  text-align: center;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  letter-spacing: 0;
 }
 a {
   color: #333;
@@ -23,9 +29,13 @@ input[type=submit] {
   font-size: 1em;
   line-height: 1;
 }
+.menu {
+  text-align: center;
+}
 header#masthead {
   margin-top: 7%;
   margin-bottom: 7%;
+  text-align: center;
 }
 header#masthead h1 {
   font-size: 3em;
@@ -42,7 +52,20 @@ header#masthead h2 {
 }
 #main {
   margin: 0 0 10%;
+  text-align: center;
 }
+footer {
+  text-align: center;
+}
+
 footer .social {
   font-size: 2em;
+}
+
+#projects .project h2 {
+  font-size: 2em;
+}
+
+#projects .project p {
+  color: #666;
 }
