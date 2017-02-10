@@ -3,7 +3,7 @@ name:
   pt: BNDES na Amazônia
   en: BNDES na Amazônia
   es: BNDES na Amazônia
-url: www.bndesnaamazonia.org
+project_url: http://www.bndesnaamazonia.org
 github: aparabolica/bndes-na-amazonia
 slug: bndes-na-amazonia
 launch_year: 2015

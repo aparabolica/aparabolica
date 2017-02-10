@@ -4,7 +4,11 @@ namespace: portfolio
 permalink: /portfolio/
 ---
 
-<h1>{% t our_portfolio %}</h1>
+<div class="container">
+  <div class="six columns offset-by-three">
+    <h1>{% t our_portfolio %}</h1>
+  </div>
+</div>
 
 <section id="projects">
 {% for project in site.projects %}
@@ -13,11 +17,12 @@ permalink: /portfolio/
       <div class="six columns offset-by-three">
         <header class="project-header">
           <h2>
-            {{ project.name[site.lang] }}
+            {{ project.name[site.lang] }} {{ project.launch_year }}
           </h2>
         </header>
         <section class="project-content">
           <p>{{ project.description[site.lang] }}</p>
+          <p class="url"><a class="button" href="{{ project.project_url }}" rel="external" target="_blank">{% t access_website %}</a></p>
         </section>
       </div>
     </div>
