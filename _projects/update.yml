@@ -1,0 +1,24 @@
+---
+name:
+  pt: Update Politics!
+  en: Update Politics!
+  es: Update Politics!
+url: updatepolitics.cc
+github: updatepolitics/website
+twitter: update_politics
+facebook: updatepolitics
+slug:
+launch_year: 2016
+techs:
+tags:
+  - civic_inovation
+  - politics
+  - participation
+description:
+  en: >
+    A map of of the ecosystem of political practices in Latin America that depicts the hubs and signals that contribute to reduce the gap between civil society and the government.
+  pt: >
+    Um mapeamento do ecossistema de práticas políticas emergentes na América Latina que retrata hubs e sinais que contribuem para a redução da distância entre a sociedade civil e o poder público.
+  es: >
+    Un retrato del ecosistema de práticas políticas emergentes en la América Latina que identifica actores y prácticas que contribuyen para la reducción de la distancia entre la sociedad civil y el poder público.
+---

@@ -1,0 +1,27 @@
+---
+name:
+  pt: Rede Infoamazonia
+  en: Rede Infoamazonia
+  es: Rede Infoamazonia
+url: http://rede.infoamazonia.org
+github: InfoAmazonia/rede-site
+twitter:
+facebook:
+slug:
+launch_year: 2014
+techs:
+  - open_hardware
+  - sensors
+tags:
+  - webmaps
+  - amazon
+  - water_quality
+  - envirment
+description:
+  en: >
+    A network of open hardware sensors that measured water quality in cities in the Amazon, a project funded by Google Apps Challenge.
+  pt: >
+    Rede de sensores de hardware aberto que mediram a qualidade da água em cidades da Amazônia, um projeto financiado pelo Google Apps Challenge.
+  es: >
+    Red de sensores de hardware abierto que midieron la calidad del agua en ciudades de la Amazonia, un proyecto financiado por Google Apps Challenge.
+---

@@ -1,0 +1,25 @@
+---
+name:
+  pt: Portal Rios da Amazonia
+  en: Amazon Rivers Platform
+  es: Portal Rios Amazónicos
+url: http://amazonriversplatform.org/
+github: aparabolica/amazon-rivers-wptheme
+twitter:
+facebook:
+slug:
+launch_year: 2016
+techs:
+  - wordpress
+  - arcgis_online
+tags:
+  - webmaps
+  - amazon
+description:
+  en: >
+    Portal of information produced by the World Wide Fund for Nature (WWF) on the rivers of the Amazon basin.
+  pt: >
+    Portal de informações produzidas pelas World Wide Fund for Nature WWF (WWF) sobre os rios da bacia do Amazonas.
+  es: >
+    Portal de informaciónes producidas por el World Wide Fund for Nature (WWF) sobre los ríos de la cuenca del Amazonas.
+---
